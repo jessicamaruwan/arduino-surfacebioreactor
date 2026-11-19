@@ -46,7 +46,7 @@ The three tasks run side by side using `millis()` timers instead of `delay()`:
 
 Power the stepper motor from the external supply, not from the ESP32.
 
-### Approximate cost (one reactor)
+### Approximate cost (one reactor) (year 2022)
 
 | Part | Cost (USD) |
 |---|---|
